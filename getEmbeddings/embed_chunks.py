@@ -20,7 +20,7 @@ from openai import OpenAI
 # RUN CONFIG — edit these before each run
 # ===========================================================================
 
-INPUT_FILE  = "chunks.jsonl"            # Input JSONL of chunks
+INPUT_FILE  = "marker_chunks.jsonl"            # Input JSONL of chunks
 OUTPUT_FILE = "chunks_embedded.jsonl"   # Output JSONL with embeddings added
 
 LIMIT = 'ALL'          # Max chunks to embed. Set to "ALL" to embed everything.
@@ -148,7 +148,8 @@ def estimate_cost(chunks: list[dict]) -> None:
 # ---------------------------------------------------------------------------
 
 def chunk_id(chunk: dict) -> str:
-    return f"{chunk.get('file_path', '')}::{chunk.get('chunk_index', 0)}"
+    ocr = ":ocr" if chunk.get("ocr") else ""
+    return f"{chunk.get('file_path', '')}::{chunk.get('chunk_index', 0)}{ocr}"
 
 def load_done_ids(output_path: Path) -> set[str]:
     done = set()
