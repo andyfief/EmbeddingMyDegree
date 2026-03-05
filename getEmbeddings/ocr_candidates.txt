@@ -1,0 +1,206 @@
+CS 321/HW1-2024-10-12-16-37.pdf
+CS 321/HW2-2024-10-27-22-24.pdf
+CS 321/HW3-2024-11-10-23-53.pdf
+CS 321/HW4-2024-11-24-23-41.pdf
+CS 321/HW5-2024-12-04-22-18.pdf
+CS 399/ADS Project(1).pdf
+CS 399/ADS Project, Professional Report.pdf
+CS 399/ADS Project.pdf
+CS 399/d.pdf
+CS_325/Analysis of Algorithms - Divide and Conquer 1.pdf
+CS_325/Assignment4_Dynamic Programming.pdf
+CS_325/Assignment6_Greedy Technique & Graph Algorithms Part-2 .pdf
+CS_325/Assignment9_ Heuristic Algorithms.pdf
+CS_325/CS 325 Assignment1.pdf
+CS_325/Dropped Class/Asymptotic Analysis/FromKindle.pdf
+CS_325/Dropped Class/Dynamic Programming/Analysis of Algorithms - Dynamic Programming.pdf
+CS_325/RecursionRecurranceRelation/Assignment2_Recursion and Recurrence Relations.docx.pdf
+CS_325/assign4.pdf
+CS_340/AnalyticalDB/Analytical DB and BI Assignment.pdf
+CS_340/ProjectGroup89_Step6_FINAL/Group89_Report_Final.pdf
+CS_340/step4draftInstruction.pdf
+CS_361/Milestone 1.pdf
+CS_370/CS370 Assignment 1.pdf
+CS_370/Hacking Adventure Writeup.pdf
+CS_370/Reverse Engineering.pdf
+CS_370/StudyMaterials/CS370-Module1-Sample Problems_Questions.pdf
+CS_370/StudyMaterials/CS370-Module3-Sample Problems_Questions.pdf
+CS_370/StudyMaterials/CS370-Module4-Sample Problems_Questions.pdf
+CS_370/StudyMaterials/CS370-Week1a-What-is-security.pdf
+CS_370/StudyMaterials/CS370-Week1b-KeyConcepts.pdf
+CS_370/StudyMaterials/CS370-Week1c-CyberSecurity-Terminology.pdf
+CS_370/StudyMaterials/CS370-Week1d-CyberSecurity-Principles.pdf
+CS_370/StudyMaterials/CS370-Week1e-CyberSecurity-Strategy.pdf
+CS_370/StudyMaterials/CS370-Week2b-WebVulnerabilities.pdf
+CS_370/StudyMaterials/CS370-Week2c-CommonSoftwareVulnerabilities.pdf
+CS_370/StudyMaterials/CS370-Week2d-SoftwareVulnerabilities-1.pdf
+CS_370/StudyMaterials/CS370-Week2e-BufferOverflow-I.pdf
+CS_370/StudyMaterials/CS370-Week2f-BufferOverflow-II.pdf
+CS_370/StudyMaterials/F25-Midterm-Sample.pdf
+CS_370/StudyMaterials/SLIDES-CS370-Week3a-IntrotoCrypto.pdf
+CS_370/StudyMaterials/SLIDES-CS370-Week3b-ModernCiphers.pdf
+CS_370/StudyMaterials/SLIDES-CS370-Week4a-EncryptionModes.pdf
+CS_370/StudyMaterials/SLIDES-CS370-Week4b-CryptoHashes.pdf
+CS_370/StudyMaterials/SLIDES-CS370-Week4c-MACs.pdf
+CS_370/StudyMaterials/SLIDES-CS370-Week4d-Intro2PubKey.pdf
+CS_370/StudyMaterials/SLIDES-CS370-Week5a-Authentication.pdf
+CS_370/StudyMaterials/SLIDES-CS370-Week5b-AccessControl-Intro-Theory.pdf
+CS_370/Web Exploitation.pdf
+CS_372/Lab1/Wireshark_Intro_v9.0.pdf
+CS_372/Project1/AndrewFief_Project1_Document.pdf
+CS_372/Project2/CS 372 Project 2.pdf
+CS_372/Project2/RDT_Instructions_W26.pdf
+CS_372/Study/Module1.pdf
+CS_372/Study/Module2.pdf
+CS_372/Study/Module3.pdf
+CS_372/Study/Module4.pdf
+CS_372/Study/Module5.pdf
+CS_372/Study/Q1.pdf
+CS_372/Study/Q2.pdf
+CS_372/Study/Q3.pdf
+CS_372/Study/Q4.pdf
+CS_372/Study/Q5.pdf
+CS_381/CS 381 HW1.pdf
+CS_381/CS 381 ICA 5 - Formal Grammars.pdf
+CS_381/Homework2/CS381-HW2-Description.pdf
+CS_381/Homework2/CS381-HW2-Verifier-Results.pdf
+CS_381/ICA12/ICA12.pdf
+CS_381/ICA3/ICA3-Shapes-Sol.pdf
+CS_381/Study/HW2.pdf
+CS_381/Study/HW3.pdf
+CS_381/Study/HW4.pdf
+CS_381/Study/Module1.pdf
+CS_381/Study/Module2.pdf
+CS_381/Study/Module3.pdf
+CS_381/Study/Module4.pdf
+CS_381/Study/Quiz1.pdf
+CS_381/Study/Quiz2.pdf
+CS_381/Study/Quiz3.pdf
+CS_434/CS434_HW0.pdf
+CS_434/HW1_Math.pdf
+CS_434/StudyFinal/CS434_HW3.pdf
+CS_434/StudyFinal/L10.1 - Sequential Decision Making.pdf
+CS_434/StudyFinal/L10.1 - Unsupervised Learning II.pdf
+CS_434/StudyFinal/L10.2 - Final Review.pdf
+CS_434/StudyFinal/L6.1 - Neural Networks I.pdf
+CS_434/StudyFinal/L7.1 - Nueral Networks II.pdf
+CS_434/StudyFinal/L7.2 - Decision Trees.pdf
+CS_434/StudyFinal/L8.1 - Random Forests and Ensemble Methods-1.pdf
+CS_434/StudyFinal/L9.1 - Unsupervised Learning I-1 (1).pdf
+CS_434/StudyFinal/L9.1 - Unsupervised Learning I-1.pdf
+CS_434/StudyMidterm/HW2.pdf
+CS_434/StudyMidterm/L1.1 - kNN.pdf
+CS_434/StudyMidterm/L1.2 - Prob.,MLE, and MAP (1).pdf
+CS_434/StudyMidterm/L2.1 - Linear Algebra and Linear Regression.pdf
+CS_434/StudyMidterm/L2.2 - Polynomial Regression, Regularization, and Logistic Regression.pdf
+CS_434/StudyMidterm/L3.1 - Perceptron and Evaluating Classifiers.pdf
+CS_434/StudyMidterm/L3.2 - Naive Bayes.pdf
+CS_434/StudyMidterm/L4.1 - Naive Bayes (cont.) and Multiclass Classification.pdf
+CS_434/StudyMidterm/L4.2 - Support Vector Machines.pdf
+CS_434/StudyMidterm/L5.1 - Support Vector Machines II.pdf
+CS_434/StudyMidterm/L5.2 - Midterm Review.pdf
+CS_434/hw1-report.pdf
+CS_434/hw2/hw2-report.pdf
+CS_434/hw3/CS434_HW3-6.pdf
+CS_434/hw3/Machine Learning Homework 3.pdf
+CS_434/hw4/hw4-report.pdf
+CS_434/rawPDF/L2.pdf
+CS_434/rawPDF/ch9.pdf
+CS_434/slicedPDF/StatisticalLearning_L.pdf
+CS_464/CS 464 Final Presentation.pdf
+CS_464/Copy of PR Link.pdf
+CS_464/Project Organization Report.pdf
+CS_464/Testing Methodology and Results Report.pdf
+Capstone/Background Research Brief.pdf
+Capstone/Individual Assignments/2025-12-01-fiefa-ADR.pdf
+Capstone/Instructor Student Writing Evaluation.pdf
+Capstone/ResponseSummary_FS_1FJ5X4dXd8bnqpT.pdf
+ECE 272/AF Design Project 1 Report.pdf
+ECE 272/Andrew Fief ECE 272 Prelab 2.pdf
+ECE 272/Andrew Fief Postlab 7.pdf
+ECE 272/Design Project 1 Report.pdf
+ECE 272/ECE 271 Group Project 2.pdf
+ECE 272/ECE 271 HW 1.pdf
+ECE 272/ECE 272 PostLab 6 .pdf
+ECE 272/ECE 272 Prelab 3-2024-10-12-16-58.pdf
+ECE 272/ECE 272 Prelab 3.pdf
+ECE 272/ECE 272 Prelab 6.pdf
+ECE 272/HW 2-2024-10-12-18-50.pdf
+ECE 272/HW3-2024-10-20-23-16.pdf
+ECE 272/HW4-2024-10-27-23-40.pdf
+ECE 272/HW5-2024-11-03-23-23.pdf
+ECE 272/HW6-2024-11-08-20-48.pdf
+ECE 272/HW7.pdf
+ECE 272/Postlab 3-2024-10-25-22-59.pdf
+ECE 272/Postlab4-2024-10-31-15-30.pdf
+ECE 272/Quiz10/1.pdf
+ECE 272/Quiz10/2.pdf
+ECE 272/Quiz10/3.pdf
+ECE 272/Quiz10/4.pdf
+ECE 272/Quiz10/5.pdf
+ECE 272/Quiz4/1.pdf
+ECE 272/Quiz4/2.pdf
+ECE 272/Quiz4/3.pdf
+ECE 272/Quiz4/4.pdf
+ECE 272/Quiz4/5.pdf
+ECE 272/Quiz5/1.pdf
+ECE 272/Quiz5/2.pdf
+ECE 272/Quiz5/3.pdf
+ECE 272/Quiz5/4.pdf
+ECE 272/Quiz5/5.pdf
+ECE 272/Quiz6/1.pdf
+ECE 272/Quiz6/2.pdf
+ECE 272/Quiz6/3.pdf
+ECE 272/Quiz6/4.pdf
+ECE 272/Quiz6/5.pdf
+ECE 272/Quiz7/1.pdf
+ECE 272/Quiz7/2.pdf
+ECE 272/Quiz8/2.pdf
+ECE 272/Quiz8/3.pdf
+ECE 272/Quiz9/1.pdf
+ECE 272/Quiz9/2.pdf
+ECE 272/Quiz9/3.pdf
+ECE 272/harris_solutions_all.pdf
+ECE 272/prelab 4-2024-10-26-19-05.pdf
+ECE 272/project2docs/Block.pdf
+ECE 370/Ch1_Introduction - Tagged.pdf
+ECE 370/Ch2_Assembly_Language_Fundamentals - Tagged.pdf
+ECE 370/Ch3_Computer_Organization_Fundamentals - Tagged.pdf
+ECE 370/Ch4_AVR_Assembly_ATmega32U4 - Tagged.pdf
+ECE 370/Ch5_AVR_IO_ATmega32U4 - Tagged.pdf
+ECE 370/Ch7_AVR_Microarchitecture - Tagged.pdf
+ECE 370/ECE 370 Textbook.pdf
+ECE 370/ECE370 Lab2 Report.pdf
+ECE 370/Fief_Andrew_Lab6/Fief_Andrew_Lab6_Report.pdf
+ECE 370/HW1.pdf
+ECE 370/HW1_complete.pdf
+ED 216/ED 216 Reflective Paragraph.pdf
+ED 216/ED 216 Turn and Learn #5.pdf
+ED 216/ED 216 Turn and Learn #6.pdf
+GoogleDrive03-01-2026/CS434 Machine Learning/L1.1 - kNN.pdf
+GoogleDrive03-01-2026/ECE370 Comp Org. and Assembly/Lecture3 from kindle.pdf
+GoogleDrive03-01-2026/ECE370 Comp Org. and Assembly/TextBook_class.pdf
+GoogleDrive03-01-2026/PrintStatsFinal/FixedMidterm.pdf
+GoogleDrive03-01-2026/PrintStatsFinal/ST 314 Practice Final Exam Solutions - Tagged.pdf
+GoogleDrive03-01-2026/Unorganized/Background Research Brief (Andrew).pdf
+PHL 330/Right to be Forgotten.pdf
+PHL 330/Ruha Benjamin Talk.pdf
+PaymentReceiptNov1625.pdf
+ST_314/DA3/Data Analysis 3.pdf
+ST_314/DA4/Data Analysis 4.pdf
+ST_314/DA6/ST 314 DA 6.pdf
+ST_314/DA7/Data Analysis 7.pdf
+ST_314/DA8/ST 314 Data Analysis 8.pdf
+ST_314/FixedMidterm.pdf
+ST_314/Midterm.pdf
+WR 214/Cover Letter.pdf
+WR 214/WR 214 Mission Statement.pdf
+WR 214/WR 214 RAW 3.pdf
+WR 227z/EL_WR 227z Describe Your Major in 3 Ways.pdf
+WR 227z/Figures WR 227z.pdf
+WR 227z/Infographic Analysis WR 227z.pdf
+WR 227z/Profession Description Paragraph.pdf
+WR 227z/Reading Assignment #2.pdf
+WR 227z/WR 227z Writing Assignment 3.pdf
+WR 227z/What is Technical Communcation.pdf
+flipServers03-01-2026/CS_381/HW2/CS381-HW2-Description.pdf
