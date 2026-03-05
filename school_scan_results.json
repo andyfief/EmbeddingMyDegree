@@ -1,12 +1,12 @@
 {
   "root": "C:\\Users\\FiefA\\Desktop\\School",
-  "total_files": 2295,
+  "total_files": 2294,
   "skipped_files": 13756,
-  "ignored_ext": 4062,
+  "ignored_ext": 4061,
   "extensions": {
     ".png": {
-      "count": 269,
-      "total_bytes": 13010340,
+      "count": 268,
+      "total_bytes": 13008874,
       "examples": [
         "LBCC Grades.PNG",
         "Capstone\\Individual Assignments\\image.png",
